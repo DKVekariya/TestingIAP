@@ -24,6 +24,7 @@
 		4250F0F22631A9E600EB6821 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4250F0F52631A9E600EB6821 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4250F0F72631A9E600EB6821 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4250F0FE2631B27800EB6821 /* Configuration.storekit */ = {isa = PBXFileReference; lastKnownFileType = text; path = Configuration.storekit; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +60,7 @@
 				4250F0E92631A9E500EB6821 /* AppDelegate.swift */,
 				4250F0EB2631A9E500EB6821 /* SceneDelegate.swift */,
 				4250F0ED2631A9E500EB6821 /* ViewController.swift */,
+				4250F0FE2631B27800EB6821 /* Configuration.storekit */,
 				4250F0EF2631A9E500EB6821 /* Main.storyboard */,
 				4250F0F22631A9E600EB6821 /* Assets.xcassets */,
 				4250F0F42631A9E600EB6821 /* LaunchScreen.storyboard */,
